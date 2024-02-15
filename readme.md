@@ -1,6 +1,6 @@
 # Conexão do Python com o MySql
 
-!["Imagem Python com MySQL"](![Alt text](image.png))
+!["Imagem Python com MySQL"]![Alt text](image.png)
 
 ## Drive de comunicação
 Para estabelecer a comunicação entre o Python e o banco de dados mysql, iremos usar o seguinte drive:
