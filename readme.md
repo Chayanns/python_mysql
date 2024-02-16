@@ -111,7 +111,7 @@ cursor.execute("insert into clientes(nome_cliente,email,telefone)values('"+nome+
 cx.commit()
 
 ```
-### Arquivo de atualaização: up_clientes.py
+### Arquivo de atualização: up_clientes.py
 ```python
 import mysql.connector as mc
 cx = mc.connect(
